@@ -5,4 +5,4 @@ Picture of the complete set
 
 ![Raspberry Pi 4 with bluetooth keyboard](images/IMG_9604.jpg)
 
-👉 [Download the 3DP file](3DPfile/aaa-RaspberryPi4Case_V3.step)
+👉 [Download the 3DP file](https://github.com/MiaoReynolds/Raspberry-Pi-with-screen-and-keyboard-3D-print/blob/main/3DPfile/aaa-RaspberryPi4Case_V3.step?raw=true)
