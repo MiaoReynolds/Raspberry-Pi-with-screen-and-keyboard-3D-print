@@ -10,5 +10,5 @@ The case file for 3DP can be downloaded below. Or you can navigate to 3DPfile fo
 ---
 | Parts | Link |
 |--------|------|
-｜Screen｜Link:｜
-｜Keyboard｜Link:｜
+｜ Screen ｜ Link: ｜
+｜ Keyboard ｜ Link: ｜
