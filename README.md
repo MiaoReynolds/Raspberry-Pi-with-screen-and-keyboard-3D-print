@@ -12,3 +12,4 @@ The case file for 3DP can be downloaded below. Or you can navigate to 3DPfile fo
 |--------|------|
 | Screen | Link: |
 | Keyboard | Link: |
+| Battery module | Link: |
