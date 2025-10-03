@@ -2,6 +2,8 @@
 A complete 3D print case that integrate Raspberry Pi with a screen and keyboard.
 - Home made
 - Low cost
+- Easy to carry
+- Ready to use
 
 Picture of the complete set. More pictures will be released soon.
 
