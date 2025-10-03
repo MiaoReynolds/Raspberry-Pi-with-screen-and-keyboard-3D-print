@@ -1,5 +1,7 @@
 # Raspberry-Pi-with-screen-and-keyboard-3D-print
-A complete 3D print case that integrate Raspberry Pi with a screen and keyboard
+A complete 3D print case that integrate Raspberry Pi with a screen and keyboard.
+-- Home made
+-- Low cost
 
 Picture of the complete set. More pictures will be released soon.
 
