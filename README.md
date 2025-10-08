@@ -10,6 +10,12 @@ Picture of the complete set. More pictures will be released soon.
 ![Raspberry Pi 4 with bluetooth keyboard](images/IMG_9604.jpg)
 
 The case file for 3DP can be downloaded below. Or you can navigate to 3DPfile folder under this repository to get the file. (Raspberry Pi 5 case will be released soon)
+
+Note that the case dimension is designed for RP4/5 with dual-fan aluminum case. 
+![Raspberry Pi 5 with bluetooth keyboard](images/RPi5_with_Case.jpg)
+
+![Raspberry Pi 4 with bluetooth keyboard](images/RPi5_with_Case_front.jpg)
+
 👉 [Download the 3DP file](https://github.com/MiaoReynolds/Raspberry-Pi-with-screen-and-keyboard-3D-print/raw/main/3DPfile/)
 ---
 | Parts | Link |
