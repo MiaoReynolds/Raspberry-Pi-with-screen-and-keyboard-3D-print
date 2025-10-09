@@ -17,7 +17,10 @@ Note that the case dimension is designed for RP4/5 with dual-fan aluminum case.
 ![Raspberry Pi 4 with bluetooth keyboard](images/RPi5_with_Case_front.jpg)
 
 👉 [Download the 3DP file](https://github.com/MiaoReynolds/Raspberry-Pi-with-screen-and-keyboard-3D-print/raw/main/3DPfile/)
+
 ---
+👉 Other Parts can be found in the link below
+
 | Parts | Link |
 |--------|------|
 | Screen | Link: [5-inch Display](https://www.lcdwiki.com/5inch_HDMI_Display-D) |
