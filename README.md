@@ -21,5 +21,5 @@ Note that the case dimension is designed for RP4/5 with dual-fan aluminum case.
 | Parts | Link |
 |--------|------|
 | Screen | Link: https://www.lcdwiki.com/5inch_HDMI_Display-D |
-| Keyboard | Link: |
+| Keyboard | Link: [49keys Portable Wireless Keyboard](https://example.com/some/very/very/long/link?with=query&params=too)|
 | Battery module | Link: |
